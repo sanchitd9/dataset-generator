@@ -1,4 +1,4 @@
-# Clone
+# Clone this repository
 
 # Run these commands!!!
 
