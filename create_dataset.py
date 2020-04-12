@@ -1,6 +1,13 @@
 import cv2
 import os
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DIRECTORY = 'dataset'
+path = os.path.join(BASE_DIR, DIRECTORY)
+
+os.mkdir(path)
+
+
 camera = cv2.VideoCapture(0)
 camera.set(3, 640)
 camera.set(4, 480)
