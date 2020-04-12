@@ -14,7 +14,8 @@ camera.set(4, 480)
 
 detector = cv2.CascadeClassifier('frontal.xml')
 
-person_id = input('Enter ID:')
+# person_id = input('Enter ID:')
+person_id = 1
 
 print('Look at the camera please!')
 
