@@ -1,4 +1,6 @@
-# Run these commands first!!!
+# Clone
+
+# Run these commands!!!
 
 1. pip install opencv-python
 2. pip install opencv-contrib-python
